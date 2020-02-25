@@ -7,6 +7,7 @@ import pylewm.window
 import pylewm.window_classification
 import pylewm.space
 import pylewm.spaces
+import pylewm.desktops
 import pylewm.yank
 import pylewm.selector
 import pylewm.filters
