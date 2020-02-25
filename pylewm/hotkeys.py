@@ -195,6 +195,7 @@ def handle_python(isKeyDown, keyCode, scanCode):
 # TODO: Complete this map
 VK_MAP = {
     win32con.VK_ESCAPE: "esc",
+    win32con.VK_RETURN: "return",
 }
 
 KBState = (ctypes.c_byte * 256)()
